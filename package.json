@@ -1,6 +1,6 @@
 {
   "name": "tomtea321",
-  "version": "1.2.5",
+  "version": "1.3.2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -30,13 +30,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gustom00/tomtea321.git"
+    "url": "git+https://github.com/gustom00/tomtea321"
   },
   "bugs": {
     "url": "https://github.com/gustom00/tomtea321/issues"
   },
-  "homepage": "https://github.com/gustom00/tomtea321#readme",
-  "keywords": [
-    "tomtea"
-  ]
+  "homepage": "https://github.com/gustom00/tomtea321#readme"
 }
